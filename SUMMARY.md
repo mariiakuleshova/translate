@@ -11,6 +11,7 @@
     * [Что мы подразумеваем под обрезанием ветвей?](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/derevya-reshenii/chto-my-podrazumevaem-pod-obrezaniem-vetvei.md)
     * [Самостоятельная классификация деревьев решений и инструменты ИИ](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/derevya-reshenii/samostoyatelnaya-klassifikaciya-derevev-reshenii-i-instrumenty-ii.md)
   * [Энтропия](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/entropiya.md)
+  * [Унитарный код \(One hot encoding\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/unitarnyi-kod-one-hot-encoding.md)
 
 ## Анализ задачи
 
