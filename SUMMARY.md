@@ -16,6 +16,9 @@
   * [Сетка поиска и A \* \(A-Star\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/untitled.md)
   * [А\* алгоритм](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/a-algoritm.md)
   * [D \* \(D-Star или Dynamic A \*\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/d-d-star-ili-dynamic-a.md)
+  * [При поиске пути с помощью GPS не используется карта!](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/pri-poiske-puti-s-pomoshyu-gps-ne-ispolzuetsya-karta.md)
+* [Подведем итоги](glava-8.-otbrosim-veshi-v-storonu/podvedem-itogi.md)
+* [Вопросы](glava-8.-otbrosim-veshi-v-storonu/voprosy.md)
 
 ## Анализ задачи
 
