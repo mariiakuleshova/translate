@@ -14,6 +14,8 @@
   * [Унитарный код \(One hot encoding\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/unitarnyi-kod-one-hot-encoding/README.md)
     * [Случайные леса](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/unitarnyi-kod-one-hot-encoding/sluchainye-lesa.md)
   * [Сетка поиска и A \* \(A-Star\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/untitled.md)
+  * [А\* алгоритм](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/a-algoritm.md)
+  * [D \* \(D-Star или Dynamic A \*\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/d-d-star-ili-dynamic-a.md)
 
 ## Анализ задачи
 
