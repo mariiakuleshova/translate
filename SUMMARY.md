@@ -13,7 +13,7 @@
   * [Энтропия](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/entropiya.md)
   * [Унитарный код \(One hot encoding\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/unitarnyi-kod-one-hot-encoding/README.md)
     * [Случайные леса](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/unitarnyi-kod-one-hot-encoding/sluchainye-lesa.md)
-  * [Untitled](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/untitled.md)
+  * [Сетка поиска и A \* \(A-Star\)](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/untitled.md)
 
 ## Анализ задачи
 
