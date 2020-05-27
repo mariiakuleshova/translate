@@ -19,6 +19,7 @@
   * [При поиске пути с помощью GPS не используется карта!](glava-8.-otbrosim-veshi-v-storonu/analiz-zadachi/pri-poiske-puti-s-pomoshyu-gps-ne-ispolzuetsya-karta.md)
 * [Подведем итоги](glava-8.-otbrosim-veshi-v-storonu/podvedem-itogi.md)
 * [Вопросы](glava-8.-otbrosim-veshi-v-storonu/voprosy.md)
+* [Дополнительная литература](glava-8.-otbrosim-veshi-v-storonu/dopolnitelnaya-literatura.md)
 
 ## Анализ задачи
 
